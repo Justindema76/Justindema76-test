@@ -12,7 +12,7 @@
   - [Contact Information](#contact-information)
 
 ## Introduction<a name="introduction"></a>
-
+My name is Justin DeMatteis.  I currently live in Stoney Creek Ontario
 
 ## Background<a name="background"></a>
 
