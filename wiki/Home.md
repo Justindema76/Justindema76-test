@@ -1,16 +1,18 @@
 # Table of Contents
 
-1. [Introduction](#introduction)
-2. [Background](#background)
-3. [Education](#education)
-4. [Work Experience](#work-experience)
-5. [Skills](#skills)
-6. [Projects](#projects)
-7. [Achievements](#achievements)
-8. [Hobbies and Interests](#hobbies-and-interests)
-9. [Contact Information](#contact-information)
+- [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Background](#background)
+  - [Education](#education)
+  - [Work Experience](#work-experience)
+  - [Skills](#skills)
+  - [Projects](#projects)
+  - [Achievements](#achievements)
+  - [Hobbies and Interests](#hobbies-and-interests)
+  - [Contact Information](#contact-information)
 
 ## Introduction<a name="introduction"></a>
+
 
 ## Background<a name="background"></a>
 
